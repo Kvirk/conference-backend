@@ -1,0 +1,10 @@
+{
+  "name": "Conferencing Backend",
+  "description": "Go conferencing backend",
+  "keywords": [
+    "conferencing",
+    "go"
+  ],
+  "website": "https://github.com/Kvirk/conference-backend",
+  "repository": "https://github.com/Kvirk/conference-backend"
+}
